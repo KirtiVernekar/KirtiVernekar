@@ -1,8 +1,8 @@
-##👋 Heya! I’m Kirti
+## 👋 Heya! I’m Kirti
 
-####I love designing and building digital experiences!
+#### I love designing and building digital experiences!
 
-#####I like to talk about tech:computer::chains:, design:bar_chart: and games:video_game:
+##### I like to talk about tech:computer::chains:, design:bar_chart: and games:video_game:
 
 :mailbox_with_mail: Find me at -> [Twitter](https://twitter.com/kirti_vernekar) or [LinkedIn](https://www.linkedin.com/in/kirtivernekar/)
 
