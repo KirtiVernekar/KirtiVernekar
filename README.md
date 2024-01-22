@@ -1,6 +1,6 @@
 ## 👋 Heya! I’m Kirti
 
-#### I'm a web developer and product design enthusiast. I love designing and building digital experiences!
+#### I'm a frontend engineer and product design enthusiast. I love designing and building digital experiences!
 
 ##### I like to talk about tech:computer::chains:, design:bar_chart: and games:video_game:
 
