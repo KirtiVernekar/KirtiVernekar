@@ -4,23 +4,20 @@
   <strong>Software Engineer</strong> by day, caffeine-powered dreamer by night 🌚
 </p>
 
-<!-- Optional: Add a badge section -->
 <p align="center">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kirti-blue?logo=linkedin">
   <img alt="Twitter" src="https://img.shields.io/twitter/follow/kirti_vernekar?style=social&logo=twitter">
 </p>
 
-<!-- About Me -->
-## 👨‍💻 About Me  
+### 👨‍💻 About Me  
 I’m a Software Engineer who turns coffee into code and ideas into interfaces ☕💻
 I bring a product-centric mindset to engineering, focusing on simplicity, scalability, and performance.
 
 - 🔭 Currently exploring **AI** trends 
 - 🌱 Always curious about new patterns in frontend architecture and product engineering
 
----
 
-## 🛠 Skills
+### 🛠 Skills
 
 <p align="center">
   <!-- Languages -->
@@ -47,15 +44,12 @@ I bring a product-centric mindset to engineering, focusing on simplicity, scalab
 </p>
 
 
----
-
-## 📌 Featured
+### 📌 Featured
 
 ▶️ [React India — Understanding the new Suspense SSR architecture in React 18](https://www.youtube.com/watch?v=QlHGEkuJz-Y&t=458s)
 
----
 
-## 📫 Let’s Connect
+### 📫 Let’s Connect
 
 Feel free to reach out — I’m open to collaboration, mentorship, and interesting work!
 
